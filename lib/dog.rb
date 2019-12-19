@@ -17,3 +17,6 @@ class Dog
     @this_dogs_breed
   end
 end
+
+Dog.name=("Fido")
+Fido.name
